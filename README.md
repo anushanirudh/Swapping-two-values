@@ -19,8 +19,11 @@ Print both the values it would be interchanged
 End the program
 ## PROGRAM:
   a=input("Enter the value 1:")
+  
   b=input("Enter the value 2:")
+  
   a,b=b,a
+  
   print("Swapped values are:",a,b)
 
 ## OUTPUT:
