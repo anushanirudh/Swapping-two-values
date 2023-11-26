@@ -18,6 +18,14 @@ Print both the values it would be interchanged
 ### Step 6: 
 End the program
 ## PROGRAM:
+  a=input("Enter the value 1:")
+  b=input("Enter the value 2:")
+  a,b=b,a
+  print("Swapped values are:",a,b)
+
+## OUTPUT:
+  ![Screenshot (3)](https://github.com/anushanirudh/Swapping-two-values/assets/151725737/e354c954-c36b-4a34-8612-aa2304460c63)
+
 
 
 
